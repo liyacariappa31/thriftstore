@@ -18,7 +18,10 @@ pipeline {
             steps {
                 sh '''
                 pkill -f "next start" || true
-                nohup npm start > app.log 2>&1 &
+                npm install pm2 -g || true
+                pm2 delete thriftstore || true
+                pm2 start npm --name "thriftstore" -- start
+                pm2 save
                 '''
             }
         }
