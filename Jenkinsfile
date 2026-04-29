@@ -14,9 +14,12 @@ pipeline {
             }
         }
 
-        stage('Start') {
+        stage('Deploy') {
             steps {
-                sh 'npm start'
+                sh '''
+                pkill -f "next start" || true
+                nohup npm start > app.log 2>&1 &
+                '''
             }
         }
     }
