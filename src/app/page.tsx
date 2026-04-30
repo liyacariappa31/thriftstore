@@ -114,7 +114,7 @@ export default async function Home() {
 
       {/* =============== THE FOOTER =============== */}
       <footer className="relative z-20 w-full bg-black text-white py-12 px-4 md:px-12 xl:px-24 flex flex-col md:flex-row justify-between items-center gap-6 text-xs uppercase tracking-widest font-mono">
-        <p>© 2026 CAPPEN E-COMMERCE.</p>
+        <p>© 2026 CART E-COMMERCE.</p>
         <div className="flex gap-8">
           <Link href="#" className="hover:text-gray-400 transition-colors">Instagram</Link>
           <Link href="#" className="hover:text-gray-400 transition-colors">Twitter</Link>

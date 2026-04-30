@@ -33,7 +33,7 @@ export default function AboutClient({ images }: { images: string[] }) {
             transition={{ duration: 1, delay: 0.2, ease: "easeOut" }}
           >
             <p className="mb-8">
-              Founded in 2026, Cappen E-Commerce began as a digital experiment to bridge the absolute gap between physical objects and immersive digital experiences.
+              Founded in 2026, Cart E-Commerce began as a digital experiment to bridge the absolute gap between physical objects and immersive digital experiences.
             </p>
             <p>
               We firmly believe that shopping should not be a static grid of flat images, but rather a carefully curated exhibition of interactive 3D objects that you can practically touch through the screen.

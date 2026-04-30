@@ -9,7 +9,7 @@ import LenisProvider from "@/components/lenis-provider";
 const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
 export const metadata: Metadata = {
-  title: "CAPPEN - Digital & Physical Objects",
+  title: "CART - Digital & Physical Objects",
   description: "Award-winning studio crafting physical and digital experiences.",
 };
 

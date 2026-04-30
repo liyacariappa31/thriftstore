@@ -18,7 +18,7 @@ export function Header() {
             <ShoppingBag size={20} strokeWidth={2.5} />
           </div>
           <span className="text-xl font-black tracking-tighter uppercase transition-opacity group-hover:opacity-80">
-            CAPPEN
+            CART
           </span>
         </Link>
 

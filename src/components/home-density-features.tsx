@@ -68,10 +68,10 @@ export function InfiniteMarqueeFeature() {
     <section className="relative py-24 bg-white w-full overflow-hidden text-black border-t border-b border-black">
        <div className="flex animate-marquee-fast whitespace-nowrap">
           <h2 className="text-[12vw] font-black uppercase tracking-tighter leading-none flex items-center">
-             <span className="mx-8 italic font-serif opacity-30">Future</span> CAPPEN DIGITAL STUDIOS
-             <span className="mx-8 italic font-serif opacity-30">Archive</span> CAPPEN DIGITAL STUDIOS
-             <span className="mx-8 italic font-serif opacity-30">Future</span> CAPPEN DIGITAL STUDIOS
-             <span className="mx-8 italic font-serif opacity-30">Archive</span> CAPPEN DIGITAL STUDIOS
+             <span className="mx-8 italic font-serif opacity-30">Future</span> CART DIGITAL STUDIOS
+             <span className="mx-8 italic font-serif opacity-30">Archive</span> CART DIGITAL STUDIOS
+             <span className="mx-8 italic font-serif opacity-30">Future</span> CART DIGITAL STUDIOS
+             <span className="mx-8 italic font-serif opacity-30">Archive</span> CART DIGITAL STUDIOS
           </h2>
        </div>
     </section>
