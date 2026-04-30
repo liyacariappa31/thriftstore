@@ -66,7 +66,7 @@ export default async function Home() {
                 FOR
               </h1>
               <h1 className="text-[18vw] md:text-[14vw] font-black leading-[0.75] tracking-tighter uppercase outline-text italic">
-                TODAY
+                TODAY!
               </h1>
             </div>
           </div>
