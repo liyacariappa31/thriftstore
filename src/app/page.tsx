@@ -56,7 +56,7 @@ export default async function Home() {
           
           <div className="flex w-full max-w-[95vw] md:max-w-[85vw] flex-col items-stretch justify-center px-4 md:px-0 mt-8">
             <h1 className="text-[18vw] md:text-[14vw] font-black leading-[0.75] tracking-tighter uppercase self-start italic">
-              GROWING
+              PLAYING
             </h1>
             <h1 className="text-[18vw] md:text-[14vw] font-black leading-[0.75] tracking-tight uppercase self-center md:translate-x-12 mt-2">
               TOMORROW
